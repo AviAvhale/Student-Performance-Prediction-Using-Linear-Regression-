@@ -1,13 +1,13 @@
 # ╔══════════════════════════════════════════════════════════════════════════════╗
-# ║  Project Title : Student Performance Prediction Using Linear Regression    ║
-# ║  Subject       : Data Warehousing & Mining (DWM) — CIAP Phase 1           ║
-# ║  Assignment    : Individual Assignment                                     ║
-# ║  Dataset       : Student Performance Dataset (student-mat.csv)             ║
-# ║  Source        : UCI Machine Learning Repository / GitHub                  ║
-# ║  Separator     : Semicolon (;)                                            ║
-# ║  Target        : G3 (Final Grade, scale 0–20)                             ║
-# ║  Algorithm     : Linear Regression (scikit-learn)                          ║
-# ║  Libraries     : pandas, numpy, matplotlib, seaborn, scikit-learn          ║
+# ║  Project Title : Student Performance Prediction Using Linear Regression      ║
+# ║  Subject       : Data Warehousing & Mining (DWM) — CIAP Phase 1              ║
+# ║  Assignment    : Individual Assignment                                       ║
+# ║  Dataset       : Student Performance Dataset (student-mat.csv)               ║
+# ║  Source        : UCI Machine Learning Repository / GitHub                    ║
+# ║  Separator     : Semicolon (;)                                               ║
+# ║  Target        : G3 (Final Grade, scale 0–20)                                ║
+# ║  Algorithm     : Linear Regression (scikit-learn)                            ║
+# ║  Libraries     : pandas, numpy, matplotlib, seaborn, scikit-learn            ║
 # ╚══════════════════════════════════════════════════════════════════════════════╝
 
 # ── Import Libraries ─────────────────────────────────────────────────────────
