@@ -35,9 +35,9 @@ A machine learning project built for **Data Warehousing & Mining (DWM) — CIAP 
 
 | Metric                  | Value  |
 |-------------------------|--------|
-| R² Score                | ~0.85+ |
-| Mean Absolute Error     | ~0.9   |
-| Root Mean Squared Error | ~1.2   |
+| R² Score                | 0.7822 |
+| Mean Absolute Error     | 1.3394 |
+| Root Mean Squared Error | 2.1134 |
 
 > Actual values will vary slightly; run the script to see live results.
 
@@ -97,7 +97,7 @@ The script generates a **2×3 dashboard** with the following plots:
 
 ## 🔑 Key Finding
 
-**G2 (Second period grade)** is the strongest predictor of G3, having the highest regression coefficient. This makes intuitive sense — a student's recent performance is the best indicator of their final grade.
+**G2 (Second Period Grade)** is by far the strongest predictor of G3 with a coefficient of **0.980**, nearly 7x higher than G1 (0.144). `failures` has a strong negative impact (-0.456), meaning even one past failure significantly pulls the final grade down.
 
 ---
 
